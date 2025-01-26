@@ -9,3 +9,7 @@ Para utilizar o bot, precisará de um TOKEN_Telegram && ID_grupo_telegram, Token
 
 Exemplo da mensagem exibida no grupo:
 https://prnt.sc/7LJ53LuNdS9L
+
+Utilizar:
+npm i node-telegram-bot-api
+node .
